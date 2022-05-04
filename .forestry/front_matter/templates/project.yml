@@ -25,6 +25,10 @@ fields:
 - type: tag_list
   name: categories
   label: Categories
+- name: image-gallery
+  type: image_gallery
+  config: {}
+  label: image-gallery
 - type: color
   name: project_bg_color
   config:
