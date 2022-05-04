@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+thumbnail: https://res.cloudinary.com/taha-bakhit/image/upload/v1651684577/Portfolio/Streets%20of%20Helsinki/DSCF8079_hxyvfy.jpg
 title: Porta400
 date: 2019-01-03
 categories:
