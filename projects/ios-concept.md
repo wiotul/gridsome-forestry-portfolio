@@ -16,6 +16,4 @@ image-gallery:
 - https://res.cloudinary.com/taha-bakhit/image/upload/v1651684581/Portfolio/Streets%20of%20Helsinki/DSCF10496-27-02-22_aenegy.jpg
 
 ---
-![](https://res.cloudinary.com/taha-bakhit/image/upload/v1651684577/Portfolio/Streets%20of%20Helsinki/DSCF8079_hxyvfy.jpg)
-
 \[image-gallery\]
